@@ -13,8 +13,7 @@
 
 <br clear="both">
 
-### Skills. ⚙
-
+<h2 align="left">Skills. ⚙</h2>
 <h4 align="left">Programming Languages:</h4>
 <p align="left"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -68,7 +67,7 @@
 
 <br clear="both">
 
-### Statistics. 📊
+<h2 align="left">Statistics 📊</h2>
 <div align="center">
  
    ![yngibaes's GitHub stats](https://github-readme-stats.vercel.app/api?username=yngibaes&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true)
