@@ -1,15 +1,18 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=yngibaes.yngibaes&left_color=darkmagenta&right_color=violet"  />
-<h1 align="center"> Hi 👋, I'm Ana Amaya</h1>
-<h3 align="center">I'm a software developer from Colombia, who enjoys:</h3>
+<h1 align="center">Hola 👋, soy Ana Amaya</h1>
+<h3 align="center">Desarrolladora de software con experiencia en desarrollo full-stack y mobile. Me apasiona:</h3>
 
-- 👩🏻‍💻 Software Development
-- 🧶 Knitting
-- 🎹 Music
-- 📚 Learning
-- 💚 Volunteering
-- 🍔 Eating
-- 💅 Self-Care
-- 🛫 Traveling
+<ul align="left">
+  <li>👩🏻‍💻 Desarrollar software útil y escalable</li>
+  <li>🧶 Tejer</li>
+  <li>🎹 La música</li>
+  <li>📚 Aprender constantemente</li>
+  <li>💚 El voluntariado</li>
+  <li>🍔 Comer rico</li>
+  <li>💅 El autocuidado</li>
+  <li>🛫 Viajar</li>
+</ul>
+
 
 <br clear="both">
 
